@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+   
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ESH-Barbearia.DomainModel\ESH-Barbearia.DomainModel.csproj" />
+    <ProjectReference Include="..\ESH.Barbearia.DataAccess\ESH.Barbearia.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
